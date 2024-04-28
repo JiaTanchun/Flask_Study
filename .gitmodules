@@ -1,0 +1,3 @@
+[submodule "Self_Website"]
+	path = Self_Website
+	url = git@github.com:JiaTanchun/Flask_Study.git
